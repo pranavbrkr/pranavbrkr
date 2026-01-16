@@ -7,8 +7,9 @@ I'm a Software Engineer with a Master's in Computer Science from Arizona State U
 ## 🛠 Technologies & Tools
 
 * **Languages**: Java, Python, Go, JavaScript, TypeScript, SQL
-* **Backend & APIs**: Spring Boot, Django, Flask, Node.js, RESTful APIs, gRPC, WebSocket-based services, GraphQL
+* **Backend & APIs**: Spring Boot, Django, Flask, Node.js, RESTful APIs, gRPC, WebSocket-based services, GraphQL, TCP sockets, protocol implementation
 * **Frontend**: React, Angular, HTML, CSS
+* **Systems Programming**: Concurrent programming, in-memory data structures, protocol design, network programming, persistence mechanisms
 * **Cloud & Infrastructure**: AWS (EC2, S3, Lambda, RDS, SQS), Azure (Virtual Machines, App Service, Azure Functions, Azure SQL, Azure Storage), Docker, Kubernetes, CI/CD pipelines
 * **Databases & Caching**: PostgreSQL, MySQL, MongoDB, Redis
 * **Messaging & Streaming**: Apache Kafka, Amazon SQS
