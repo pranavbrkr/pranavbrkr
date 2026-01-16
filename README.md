@@ -17,11 +17,11 @@ I'm a Software Engineer with a Master's in Computer Science from Arizona State U
 
 ## 🌟 Projects
 
+* **[💾 Redigo](https://github.com/pranavbrkr/redigo)**: Built a Redis-compatible, in-memory key-value store in Go as a systems-engineering portfolio project. Implemented the Redis protocol (RESP) over raw TCP sockets, enabling standard Redis clients to interact without modification. Features include core commands (SET, GET, DEL, EXISTS, EXPIRE, TTL), concurrent client handling via goroutines with thread-safe state management, time-based key expiration with background cleanup, and persistence mechanisms including Append-Only File (AOF) logging and snapshot-style recovery for state restoration after restarts.
+
 * **[🃏 Exploding Kittens Multiplayer Game](https://github.com/pranavbrkr/exploding_kittens_backend)**: Built a real-time multiplayer card game using Spring Boot microservices and WebSockets, enabling live lobby management, turn coordination, and in-game actions. Implemented distributed game state handling with a [React frontend](https://github.com/pranavbrkr/exploding_kittens_frontend) and socket-based updates for seamless multiplayer interactions.
 
 * **[☁️ AWS Autoscaling Image Classifier](https://github.com/pranavbrkr/aws-autoscale-image-classifier)**: Developed a cloud-native image classification pipeline on AWS using EC2, S3, SQS, and Lambda, supporting autoscaling based on workload. Containerized inference workers processed images asynchronously, enabling high-throughput classification with fault-tolerant task execution.
-
-* **[🔍 TF-IDF Search Engine](https://github.com/pranavbrkr/tfidf-search-engine)**: Implemented a TF-IDF–based document search engine in Python to index and rank text documents by relevance. Designed efficient tokenization, inverted indexing, and cosine similarity scoring to support fast keyword-based search queries.
 
 ## 📫 How to Reach Me
 
